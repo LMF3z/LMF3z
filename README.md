@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://lmf3z.github.io/Portafolio/](https://lmf3z.github.io/Portafolio/)
 
-- 💬 Ask me about **JavaScript, React js and Svelte**
+- 💬 Ask me about **JavaScript and React js**
 
 - 📫 How to reach me **moisesfreites3@gmail.com**
 
