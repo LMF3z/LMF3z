@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Atel Comunicaciones C.A. [Coachteen](Private.)
 
-- 🌱 I’m currently learning **Next, React Native and a little Python**
+- 🌱 I’m currently learning **Next and React Native**
 
 - 👯 I’m looking to collaborate on **Stack MERN Projects.**
 
