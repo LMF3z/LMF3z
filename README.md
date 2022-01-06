@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lennon Sánchez</h1>
 <h3 align="center">Passionate about new technologies, I like to solve things and play with some interesting new technologies. Full of desire to learn and improve every day. With two years of experience in web development in small projects. A frontend developer from Venezuela.</h3>
 
-- 🔭 I’m currently working on Atel Comunicaciones C.A. [Coachteen](Private.)
+- 🔭 I am currently looking for a job.
 
 - 🌱 I’m currently learning **Next and React Native**
 
