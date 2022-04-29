@@ -3,11 +3,11 @@
 
 - 🔭 I am currently looking for a job.
 
-- 🌱 I’m currently learning **Next and React Native**
+- 🌱 I’m currently learning **Next and Flutter**
 
 - 👯 I’m looking to collaborate on **Stack MERN Projects.**
 
-- 🤝 I’m looking for help with **React Native development**
+- 🤝 I’m looking for help with **Flutter development**
 
 - 👨‍💻 All of my projects are available at [https://lmf3z.github.io/Portafolio/](https://lmf3z.github.io/Portafolio/)
 
