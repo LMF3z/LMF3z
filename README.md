@@ -3,13 +3,13 @@
 
 - 🔭 I am currently looking for a job.
 
-- 🌱 I’m currently learning **Next and Flutter**
+- 🌱 I’m currently learning **Angular**
 
 - 👯 I’m looking to collaborate on **Stack MERN Projects.**
 
 - 🤝 I’m looking for help with **Flutter development**
 
-- 👨‍💻 All of my projects are available at https://lennon-sanchez-dev.netlify.app/
+- 👨‍💻 All of my projects are available at https://lmf3z.vercel.app/
 
 - 💬 Ask me about **JavaScript and React js**
 
