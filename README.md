@@ -3,9 +3,9 @@
 
 - 🔭 I am currently looking for a job.
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on **Stack MERN Projects.**
+- 👯 I’m looking to collaborate on **Full Stack Projects.**
 
 - 🤝 I’m looking for help with **Flutter development**
 
