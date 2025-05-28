@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lennon Sánchez</h1>
-<h3 align="center">Passionate about new technologies, I like to solve things and play with some interesting new technologies. Full of desire to learn and improve every day. With two years of experience in web development in small projects. A frontend developer from Venezuela.</h3>
+<h3 align="center">I love playing with new technologies, analyzing and understanding from the requirements of what you want to create to the moment of giving life to the most exciting and impressive systems. My beginnings were with the frontend using React Js, curiosity led me to learn backend, using mainly Node Js frameworks. Having the opportunity to work for companies in Venezuela, Peru, Guatemala and Spain.</h3>
 
 - 🔭 I am currently looking for a job.
 
